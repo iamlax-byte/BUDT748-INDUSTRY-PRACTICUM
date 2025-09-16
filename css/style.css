@@ -1,0 +1,147 @@
+.group-3,
+.group-3 * {
+  box-sizing: border-box;
+}
+.group-3 {
+  height: 1024px;
+  position: relative;
+}
+.group-2 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.group-1 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.landing-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 968px;
+  top: 50px;
+  width: 255px;
+  height: 33px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 1076px;
+  top: 67px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 1178px;
+  top: 67px;
+}
+.lakshminarayana-natarajan {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 50px;
+  width: 566px;
+}
+.let-s-create-a-website-design {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 199px;
+  top: 358px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-codes {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 287px;
+  top: 460px;
+  width: 890px;
+  height: 143px;
+}
+.lakshminarayana-natarajan-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 478px;
+  top: 924px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eye-catching-button-false {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 246px;
+  height: 82px;
+  position: absolute;
+  left: 597px;
+  top: 674px;
+}
+.button {
+  background: #68e08c;
+  border-radius: 10px;
+  padding: 18px 0px 18px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 234px;
+  height: 60px;
+  position: relative;
+  box-shadow: inset 0px -1px 1px 1px rgba(52, 35, 170, 0.25),
+    inset 0px 1px 1px 1px rgba(255, 255, 255, 0.25),
+    inset 0px 0px 0px 1px rgba(72, 52, 212, 1),
+    0px 1px 2px 0px rgba(20, 14, 62, 0.25);
+  overflow: hidden;
+}
+.start-your-free-trial {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  position: relative;
+  width: 122px;
+  -webkit-text-stroke: 1px #000000;
+}
